@@ -32,7 +32,7 @@ cd PD-Insight-Studio
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python main.py
+python mainnnn.py
 ```
 
 Then in the app: **Load Data** and open `sample_synthetic_tapping.csv`, included in this repo. That file is synthetic, generated for demonstration, and contains no real participant data. It exists so you can see the whole pipeline work in about two minutes without sourcing a dataset first.
