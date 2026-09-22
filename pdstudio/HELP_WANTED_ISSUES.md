@@ -1,7 +1,4 @@
 # Issues to open on the repo
-
-Copy each block into a new GitHub issue. Apply the labels shown. These are scoped so a stranger can start without reading the whole codebase, which is the thing that actually gets contributions.
-
 ---
 
 ## Issue 1
